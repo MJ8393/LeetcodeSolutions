@@ -1,6 +1,5 @@
 # LeetcodeSolutions
 Solutions of Leetcode problems by students of Inha university in Tashkent
-Solutions of Leetcode problems by students of Inha university in Tashkent
 
 | No: | Problem | Solution |
 | --- | --- | --- |
