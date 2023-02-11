@@ -9,3 +9,5 @@ class Solution
         return digits.dropLast() + [lastDigit + 1]
     }
 }
+//Mehriddin Jumayev
+
