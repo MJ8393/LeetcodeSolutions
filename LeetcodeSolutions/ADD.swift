@@ -1,4 +1,4 @@
-class Solution
+class ADD
 {
     func plusOne(_ digits: [Int]) -> [Int] {
         guard let lastDigit = digits.last else { return [] }
