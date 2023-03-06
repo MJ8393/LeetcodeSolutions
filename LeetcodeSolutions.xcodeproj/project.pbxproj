@@ -14,6 +14,7 @@
 		10A8921D2998FAC00044980A /* 205. Isomorphic Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A8921C2998FAC00044980A /* 205. Isomorphic Strings.swift */; };
 		10A8921F29990A1B0044980A /* 392. Is Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A8921E29990A1B0044980A /* 392. Is Subsequence.swift */; };
 		10DC6EC729B561ED005572E8 /* 202. Happy Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6EC629B561ED005572E8 /* 202. Happy Number.swift */; };
+		10DC6EC929B5CEC4005572E8 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6EC829B5CEC4005572E8 /* 704. Binary Search.swift */; };
 		D43FEBFD29981ACA005C9CEC /* ADD.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43FEBFC29981ACA005C9CEC /* ADD.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		10A8921C2998FAC00044980A /* 205. Isomorphic Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. Isomorphic Strings.swift"; sourceTree = "<group>"; };
 		10A8921E29990A1B0044980A /* 392. Is Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. Is Subsequence.swift"; sourceTree = "<group>"; };
 		10DC6EC629B561ED005572E8 /* 202. Happy Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "202. Happy Number.swift"; sourceTree = "<group>"; };
+		10DC6EC829B5CEC4005572E8 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 		D43FEBFC29981ACA005C9CEC /* ADD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADD.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +81,7 @@
 				10A8921C2998FAC00044980A /* 205. Isomorphic Strings.swift */,
 				10A8921E29990A1B0044980A /* 392. Is Subsequence.swift */,
 				10DC6EC629B561ED005572E8 /* 202. Happy Number.swift */,
+				10DC6EC829B5CEC4005572E8 /* 704. Binary Search.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				10A892132998015A0044980A /* 1. Two Sum.swift in Sources */,
 				10A8921D2998FAC00044980A /* 205. Isomorphic Strings.swift in Sources */,
 				10A8921F29990A1B0044980A /* 392. Is Subsequence.swift in Sources */,
+				10DC6EC929B5CEC4005572E8 /* 704. Binary Search.swift in Sources */,
 				10A8921B2998855B0044980A /* 724. Find Pivot Index.swift in Sources */,
 				10DC6EC729B561ED005572E8 /* 202. Happy Number.swift in Sources */,
 			);
