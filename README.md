@@ -10,5 +10,5 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |5| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan&id=level-1) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/392.%20Is%20Subsequence.swift)
 |6| [202. Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan&id=level-2) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/202.%20Happy%20Number.swift)
 |7| [704. Binary Search](https://leetcode.com/problems/binary-search/description/?envType=study-plan&id=algorithm-i) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/704.%20Binary%20Search.swift)
-
+|8| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=algorithm-i) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/278.%20First%20Bad%20Version.swift)
 
