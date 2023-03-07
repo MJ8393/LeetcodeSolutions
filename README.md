@@ -13,4 +13,5 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |8| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=algorithm-i) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/278.%20First%20Bad%20Version.swift)
 |9| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/35.%20Search%20Insert%20Position.swift)
 |10| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/977.%20Squares%20of%20a%20Sorted%20Array.swift)
+|11| [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/189.%20Rotate%20Array.swift)
 
