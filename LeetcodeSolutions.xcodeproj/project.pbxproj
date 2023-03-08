@@ -15,6 +15,7 @@
 		10A8921F29990A1B0044980A /* 392. Is Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A8921E29990A1B0044980A /* 392. Is Subsequence.swift */; };
 		10BBD8A029B933360094D4A8 /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BBD89F29B933360094D4A8 /* 283. Move Zeroes.swift */; };
 		10BBD8A229B936810094D4A8 /* 344. Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BBD8A129B936810094D4A8 /* 344. Reverse String.swift */; };
+		10BBD8A429B93BB30094D4A8 /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BBD8A329B93BB30094D4A8 /* 557. Reverse Words in a String III.swift */; };
 		10D2CAB229B751C500DF7E51 /* 977. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D2CAB129B751C500DF7E51 /* 977. Squares of a Sorted Array.swift */; };
 		10D2CAB429B75A5400DF7E51 /* 189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D2CAB329B75A5400DF7E51 /* 189. Rotate Array.swift */; };
 		10D2CAB629B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D2CAB529B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift */; };
@@ -47,6 +48,7 @@
 		10A8921E29990A1B0044980A /* 392. Is Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. Is Subsequence.swift"; sourceTree = "<group>"; };
 		10BBD89F29B933360094D4A8 /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
 		10BBD8A129B936810094D4A8 /* 344. Reverse String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. Reverse String.swift"; sourceTree = "<group>"; };
+		10BBD8A329B93BB30094D4A8 /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
 		10D2CAB129B751C500DF7E51 /* 977. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		10D2CAB329B75A5400DF7E51 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		10D2CAB529B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Find First and Last Position of Element in Sorted Array.swift"; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				10D2CAB529B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift */,
 				10BBD89F29B933360094D4A8 /* 283. Move Zeroes.swift */,
 				10BBD8A129B936810094D4A8 /* 344. Reverse String.swift */,
+				10BBD8A329B93BB30094D4A8 /* 557. Reverse Words in a String III.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				10BBD8A029B933360094D4A8 /* 283. Move Zeroes.swift in Sources */,
 				10A8921F29990A1B0044980A /* 392. Is Subsequence.swift in Sources */,
 				10DC6EC929B5CEC4005572E8 /* 704. Binary Search.swift in Sources */,
+				10BBD8A429B93BB30094D4A8 /* 557. Reverse Words in a String III.swift in Sources */,
 				10A8921B2998855B0044980A /* 724. Find Pivot Index.swift in Sources */,
 				10D2CAB629B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				10D2CAB429B75A5400DF7E51 /* 189. Rotate Array.swift in Sources */,

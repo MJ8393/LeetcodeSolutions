@@ -7,4 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
+print(String(Solution557().reverseWords("Let's take LeetCode contest")))
