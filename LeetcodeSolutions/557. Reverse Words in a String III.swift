@@ -26,3 +26,6 @@ class Solution557 {
         return result
     }
 }
+
+// Time: O(n)
+// Space O(1)
