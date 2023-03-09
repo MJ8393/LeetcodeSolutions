@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1079EE7429B9E03900B547CE /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */; };
 		10A892052997FE320044980A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A892042997FE320044980A /* main.swift */; };
 		10A892132998015A0044980A /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A892122998015A0044980A /* 1. Two Sum.swift */; };
 		10A89217299869D70044980A /* 1480. Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A89216299869D70044980A /* 1480. Running Sum of 1d Array.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		10A892012997FE320044980A /* LeetcodeSolutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetcodeSolutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		10A892042997FE320044980A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		10A892122998015A0044980A /* 1. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				10BBD8A129B936810094D4A8 /* 344. Reverse String.swift */,
 				10BBD8A329B93BB30094D4A8 /* 557. Reverse Words in a String III.swift */,
 				10BBD8A529B941640094D4A8 /* 167. Two Sum II - Input Array Is Sorted.swift */,
+				1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				10A8921D2998FAC00044980A /* 205. Isomorphic Strings.swift in Sources */,
 				10DC6ECB29B5D419005572E8 /* 278. First Bad Version.swift in Sources */,
 				10D2CAB229B751C500DF7E51 /* 977. Squares of a Sorted Array.swift in Sources */,
+				1079EE7429B9E03900B547CE /* 876. Middle of the Linked List.swift in Sources */,
 				10BBD8A029B933360094D4A8 /* 283. Move Zeroes.swift in Sources */,
 				10A8921F29990A1B0044980A /* 392. Is Subsequence.swift in Sources */,
 				10BBD8A629B941640094D4A8 /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */,
