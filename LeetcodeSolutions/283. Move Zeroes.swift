@@ -13,7 +13,7 @@ class Solution283 {
         var r = 0
         while(r != nums.count) {
             if nums[r] != 0 {
-                var x = nums[l]
+                let x = nums[l]
                 nums[l] = nums[r]
                 nums[r] = x
                 l += 1
