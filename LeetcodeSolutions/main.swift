@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(String(Solution557().reverseWords("Let's take LeetCode contest")))
+print(String(Solution121().maxProfit([7,1,5,3,6,4])))

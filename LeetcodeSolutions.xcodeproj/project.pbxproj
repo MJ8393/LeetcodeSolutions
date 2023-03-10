@@ -26,6 +26,7 @@
 		10DC6EC929B5CEC4005572E8 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6EC829B5CEC4005572E8 /* 704. Binary Search.swift */; };
 		10DC6ECB29B5D419005572E8 /* 278. First Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6ECA29B5D419005572E8 /* 278. First Bad Version.swift */; };
 		10DC6ECD29B5D572005572E8 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6ECC29B5D572005572E8 /* 35. Search Insert Position.swift */; };
+		10E84E5C29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		D43FEBFD29981ACA005C9CEC /* ADD.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43FEBFC29981ACA005C9CEC /* ADD.swift */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		10DC6EC829B5CEC4005572E8 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 		10DC6ECA29B5D419005572E8 /* 278. First Bad Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "278. First Bad Version.swift"; sourceTree = "<group>"; };
 		10DC6ECC29B5D572005572E8 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
+		10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		D43FEBFC29981ACA005C9CEC /* ADD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADD.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -115,6 +117,7 @@
 				10BBD8A529B941640094D4A8 /* 167. Two Sum II - Input Array Is Sorted.swift */,
 				1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */,
 				1079EE7529B9E5F900B547CE /* 19. Remove Nth Node From End of List.swift */,
+				10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				10DC6EC929B5CEC4005572E8 /* 704. Binary Search.swift in Sources */,
 				10BBD8A429B93BB30094D4A8 /* 557. Reverse Words in a String III.swift in Sources */,
 				10A8921B2998855B0044980A /* 724. Find Pivot Index.swift in Sources */,
+				10E84E5C29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				10D2CAB629B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				10D2CAB429B75A5400DF7E51 /* 189. Rotate Array.swift in Sources */,
 				10DC6EC729B561ED005572E8 /* 202. Happy Number.swift in Sources */,
