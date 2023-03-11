@@ -20,8 +20,8 @@ import Foundation
 
 class Solution21 {
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
-        var list1 = l1
-        var list2 = l2
+        var list1 = list1
+        var list2 = list2
 
         let head: ListNode = ListNode(0)
         var tmp = head

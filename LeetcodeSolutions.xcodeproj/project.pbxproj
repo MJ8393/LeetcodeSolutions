@@ -27,6 +27,7 @@
 		10DC6ECB29B5D419005572E8 /* 278. First Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6ECA29B5D419005572E8 /* 278. First Bad Version.swift */; };
 		10DC6ECD29B5D572005572E8 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DC6ECC29B5D572005572E8 /* 35. Search Insert Position.swift */; };
 		10E03CB229BCD30D007E5225 /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E03CB129BCD30D007E5225 /* 21. Merge Two Sorted Lists.swift */; };
+		10E03CB429BCF038007E5225 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E03CB329BCF038007E5225 /* 206. Reverse Linked List.swift */; };
 		10E84E5C29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		10E84E5E29BAB6B600868A73 /* 3. Longest Substring Without Repeating Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E84E5D29BAB6B600868A73 /* 3. Longest Substring Without Repeating Characters.swift */; };
 		D43FEBFD29981ACA005C9CEC /* ADD.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43FEBFC29981ACA005C9CEC /* ADD.swift */; };
@@ -66,6 +67,7 @@
 		10DC6ECA29B5D419005572E8 /* 278. First Bad Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "278. First Bad Version.swift"; sourceTree = "<group>"; };
 		10DC6ECC29B5D572005572E8 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		10E03CB129BCD30D007E5225 /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		10E03CB329BCF038007E5225 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		10E84E5D29BAB6B600868A73 /* 3. Longest Substring Without Repeating Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters.swift"; sourceTree = "<group>"; };
 		D43FEBFC29981ACA005C9CEC /* ADD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADD.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				10E84E5B29BAADE700868A73 /* 121. Best Time to Buy and Sell Stock.swift */,
 				10E84E5D29BAB6B600868A73 /* 3. Longest Substring Without Repeating Characters.swift */,
 				10E03CB129BCD30D007E5225 /* 21. Merge Two Sorted Lists.swift */,
+				10E03CB329BCF038007E5225 /* 206. Reverse Linked List.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				10D2CAB629B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				10D2CAB429B75A5400DF7E51 /* 189. Rotate Array.swift in Sources */,
 				10DC6EC729B561ED005572E8 /* 202. Happy Number.swift in Sources */,
+				10E03CB429BCF038007E5225 /* 206. Reverse Linked List.swift in Sources */,
 				10DC6ECD29B5D572005572E8 /* 35. Search Insert Position.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
