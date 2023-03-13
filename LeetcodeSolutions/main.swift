@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(String(Solution121().maxProfit([7,1,5,3,6,4])))
+print(String(Solution67().addBinary("1010", "1011")))

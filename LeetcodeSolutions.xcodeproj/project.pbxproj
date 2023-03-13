@@ -10,6 +10,7 @@
 		1079EE7429B9E03900B547CE /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */; };
 		1079EE7629B9E5F900B547CE /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1079EE7529B9E5F900B547CE /* 19. Remove Nth Node From End of List.swift */; };
 		1099FEAC29BF7BCB00D7AF4F /* 9. Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1099FEAB29BF7BCB00D7AF4F /* 9. Palindrome Number.swift */; };
+		1099FEAE29BF8E3200D7AF4F /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1099FEAD29BF8E3200D7AF4F /* 67. Add Binary.swift */; };
 		10A892052997FE320044980A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A892042997FE320044980A /* main.swift */; };
 		10A892132998015A0044980A /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A892122998015A0044980A /* 1. Two Sum.swift */; };
 		10A89217299869D70044980A /* 1480. Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A89216299869D70044980A /* 1480. Running Sum of 1d Array.swift */; };
@@ -50,6 +51,7 @@
 		1079EE7329B9E03900B547CE /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		1079EE7529B9E5F900B547CE /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		1099FEAB29BF7BCB00D7AF4F /* 9. Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Palindrome Number.swift"; sourceTree = "<group>"; };
+		1099FEAD29BF8E3200D7AF4F /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		10A892012997FE320044980A /* LeetcodeSolutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetcodeSolutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		10A892042997FE320044980A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		10A892122998015A0044980A /* 1. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				10E03CB129BCD30D007E5225 /* 21. Merge Two Sorted Lists.swift */,
 				10E03CB329BCF038007E5225 /* 206. Reverse Linked List.swift */,
 				1099FEAB29BF7BCB00D7AF4F /* 9. Palindrome Number.swift */,
+				1099FEAD29BF8E3200D7AF4F /* 67. Add Binary.swift */,
 			);
 			path = LeetcodeSolutions;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				10D2CAB629B76CF800DF7E51 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				10D2CAB429B75A5400DF7E51 /* 189. Rotate Array.swift in Sources */,
 				10DC6EC729B561ED005572E8 /* 202. Happy Number.swift in Sources */,
+				1099FEAE29BF8E3200D7AF4F /* 67. Add Binary.swift in Sources */,
 				10E03CB429BCF038007E5225 /* 206. Reverse Linked List.swift in Sources */,
 				10DC6ECD29B5D572005572E8 /* 35. Search Insert Position.swift in Sources */,
 			);

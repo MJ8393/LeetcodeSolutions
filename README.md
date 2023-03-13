@@ -26,3 +26,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |21| [21. Merge Two Sorted Lists](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/21.%20Merge%20Two%20Sorted%20Lists.swift)
 |22| [206. Reverse Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/206.%20Reverse%20Linked%20List.swift)
 |23| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/9.%20Palindrome%20Number.swift)
+|24| [67. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/67.%20Add%20Binary.swift)
