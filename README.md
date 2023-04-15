@@ -27,3 +27,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |22| [206. Reverse Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/206.%20Reverse%20Linked%20List.swift)
 |23| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/9.%20Palindrome%20Number.swift)[, Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution9.py)
 |24| [67. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/67.%20Add%20Binary.swift)
+|25| [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution66.py)
