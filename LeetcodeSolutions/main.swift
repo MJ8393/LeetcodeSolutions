@@ -7,4 +7,22 @@
 
 import Foundation
 
-print(String(Solution67().addBinary("1010", "1011")))
+var nums = [1,2]
+
+var maxSum = nums[0]
+
+        var preSum = nums[0]
+
+        for i in 1...nums.count - 1 {
+             
+            if preSum < 0 {
+                preSum = 0
+            }
+            
+            preSum += nums[i]
+
+            if preSum > maxSum {
+                maxSum = preSum
+            }
+        }
+        print(maxSum)
