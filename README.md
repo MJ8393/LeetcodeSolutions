@@ -33,3 +33,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |28| [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution27.py)
 |29| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution20.py)
 |30| [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution682.py)
+|31| [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution155.py)
