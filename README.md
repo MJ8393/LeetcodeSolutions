@@ -29,3 +29,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |24| [67. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Swift](https://github.com/MJ8393/LeetcodeSolutions/blob/main/LeetcodeSolutions/67.%20Add%20Binary.swift)
 |25| [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution66.py)
 |26| [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/?envType=study-plan&id=data-structure-i?envType=study-plan&id=data-structure-i?envType=study-plan&id=data-structure-i?envType=study-plan&id=data-structure-i) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution566.py)
+|27| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution26.py)
