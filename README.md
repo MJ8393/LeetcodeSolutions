@@ -32,3 +32,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |27| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution26.py)
 |28| [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution27.py)
 |29| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution20.py)
+|30| [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution682.py)
