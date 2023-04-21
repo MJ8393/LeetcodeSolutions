@@ -34,3 +34,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |29| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution20.py)
 |30| [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution682.py)
 |31| [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution155.py)
+|32| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution1929.py)
