@@ -36,4 +36,5 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |31| [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution155.py)
 |32| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution1929.py)
 |33| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution509.py)
-|34| [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&id=top-interview-150) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution150.py)
+|34| [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&id=top-interview-150) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution290.py)
+|35| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&id=top-interview-150) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution383.py)
