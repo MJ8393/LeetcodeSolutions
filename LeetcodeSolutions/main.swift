@@ -7,22 +7,19 @@
 
 import Foundation
 
-var nums = [1,2]
+enum ValidationError: Error {
+    case invalidPassword
+}
 
-var maxSum = nums[0]
+func validatePassword(pass: String) throws -> String {
+    if pass.count < 5 {
+        throw ValidationError.invalidPassword
+    }
+    return pass
+}
+do {
+    try validatePassword(pass: "ass")
+} catch {
+    print("xxxx")
+}
 
-        var preSum = nums[0]
-
-        for i in 1...nums.count - 1 {
-             
-            if preSum < 0 {
-                preSum = 0
-            }
-            
-            preSum += nums[i]
-
-            if preSum > maxSum {
-                maxSum = preSum
-            }
-        }
-        print(maxSum)
