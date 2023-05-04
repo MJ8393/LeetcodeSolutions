@@ -40,3 +40,4 @@ Solutions of Leetcode problems by students of Inha university in Tashkent
 |35| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&id=top-interview-150) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution383.py)
 |36| [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution520.py)
 |37| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&id=top-interview-150) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution242.py)
+|38| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/MJ8393/LeetcodeSolutions/blob/main/Python/Solution217.py)
